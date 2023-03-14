@@ -7,8 +7,8 @@ int main()
 {
     int r;       
     std::cout << "Lab 8 \n";
-    std::cout << " Run example press 1 \n";
-    std::cin >> r; if (r == 1) example();
+     std::cout << " Run example press 1 \n";
+     std::cin >> r; if (r == 1) example();
     
 }
 
