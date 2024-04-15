@@ -1,4 +1,4 @@
-﻿// OOPLab8T.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+﻿// OOPLab8T.cpp :  for Lab7 (new)
 //
 
 #include <iostream>
